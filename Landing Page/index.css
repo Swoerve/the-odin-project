@@ -1,0 +1,14 @@
+:root {
+    --dark_bg: #1F2937;
+    --hero-main-text: #F9FAF8; /* 48px, weight: 900 */
+    --hero-secondary-text: #F9FAF8; /* 18px */
+    --header-logo-text: #F9FAF8; /* 24px */
+    --button-color: #3882F6;
+    --information-header-text: #1F2937; /* 36px weight: 900 */
+    --quote-bg: #E5E7EB;
+    --quote-text: #1F2937; /* light italic 36px */
+}
+
+body {
+    font-family: "Roboto";
+}
